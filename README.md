@@ -1,5 +1,5 @@
 def calculate_discount(price, discount_percent):
-if discount_percent >= 20:
+    if discount_percent >= 20:  # Fix indentation here
         return price * (1 - discount_percent / 100)
     else:
         return price
