@@ -1,6 +1,5 @@
 # control-flow
 def calculate_discount(price, discount_percent):
-    """
     Calculate the final price after applying a discount.
     Parameters:
     price (float): The original price of the item.
